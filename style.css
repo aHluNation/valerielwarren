@@ -178,7 +178,7 @@ main .main-right .officialimage-container .animated-texts-container .animated-te
 main .main-right .officialimage-container .animated-texts-container .animated-texts .texts h2{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 1.2;
     font-weight: 600;
     font-family: 'Jost';
@@ -211,8 +211,8 @@ main .main-right .officialimage-container .available p{
 main .main-right .officialimage-container .icons-container{
     margin-top: 10px;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 80px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 215px;
 }
 
 main .main-right .officialimage-container .icons-container .whatsapp a{
